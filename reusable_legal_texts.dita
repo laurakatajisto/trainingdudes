@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="reusable-legal-texts">
+    <title>Reusable legal texts</title>
+    <body>
+        <p id="safety-regulation-intro">The following safety regulations must be observed at all
+            times:</p>
+        <p id="safety-local-regulations">Local safety regulations must be observed. Only technically
+            qualified and appropriately trained personnel are authorised to open and maintain the
+            units.</p>
+        <p id="safety-no-knife">Do not use knives when opening the coffee grinder cover.</p>
+    </body>
+</topic>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Ultracool main/root map</title>
+    <topicmeta>
+        <author>Laura Katajisto</author>
+        <category>User Documentation</category>
+        <prodinfo>
+            <prodname>Ultracool</prodname>
+            <brand>Technology Savvy</brand>
+            <component>Heaters</component>
+            <featnum>VR-12321</featnum>
+            <platform>Windows</platform>
+            <prognum>RT-5234</prognum>
+        </prodinfo>
+    </topicmeta>
+    <mapref href="uc_introduction.ditamap"/>
+    <mapref href="uc_instructions.ditamap"/>
+    <mapref href="glossary.ditamap"/>
+    <topicgroup processing-role="resource-only">
+        <mapref href="ultracool_keymap.ditamap"/>
+    </topicgroup>
+</map>

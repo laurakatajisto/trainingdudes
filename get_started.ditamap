@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Get started</title>
+    <topichead>
+        <topicmeta>
+            <navtitle>Get started</navtitle>
+        </topicmeta>
+        <topicref href="fairtrade.dita"/>
+        <topicref href="set_time.dita"/>
+    </topichead>
+</map>

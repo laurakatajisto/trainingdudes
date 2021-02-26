@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Ultraheat keymap</title>
+    <keydef keys="product-name">
+        <topicmeta>
+            <keywords>
+                <keyword>Ultraheat-8800</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="version-number">
+        <topicmeta>
+            <keywords>
+                <keyword>v5.0.8800</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="reusable-legalese" href="reusable_legal_texts.dita"/>
+</map>

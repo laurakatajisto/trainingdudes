@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="glossentry_salesbox">
+    <glossterm>sales box</glossterm>
+    <glossdef>Sales box is the package in which you receive your <ph keyref="product-name"/>. It is
+        hand-made with recyclable wood. A unique number has been carved to its side.</glossdef>
+</glossentry>

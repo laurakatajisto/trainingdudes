@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Introduction submap</title>
+    <topichead>
+        <topicmeta>
+            <navtitle>Submap title comes from here</navtitle>
+        </topicmeta>
+        <topicref href="about_the_manual.dita"/>
+        <topicref href="set_time.dita"/>
+        <topicref href="add_beans.dita"/>
+    </topichead>
+</map>

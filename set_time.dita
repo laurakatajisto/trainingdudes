@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_set_time">
+    <title>Set the time</title>
+    <shortdesc>The Coffee and Tea Machine has a clock which you can use to schedule that perfect cup
+        of coffee or tea. <ph audience="novice">Set the time before brewing your first coffee or
+            making your first tea.</ph><ph audience="admin">This is for the admin.</ph></shortdesc>
+    <taskbody>
+        <prereq id="prereq_z5b_cyr_t4b">Before setting the time, check the exact time from the
+                <wintitle>Atomic Clock</wintitle>. <ph audience="novice">You can also call technical
+                support.</ph><p
+                conref="reusable_texts.dita#reusable-texts/p-service-qualified-professionals"
+            /></prereq>
+        <context>
+            <p conkeyref="reusable-texts/p-service-qualified-professionals"/>
+        </context>
+        <context id="context_xq2_cyr_t4b">Setting the time is the first thing you do when you start
+            with your Coffee and Tea Machine.</context>
+        <steps>
+            <step>
+                <cmd><ph audience="expert">Press the <uicontrol>Time</uicontrol> button
+                        once.</ph><ph audience="novice">Press the <uicontrol>Time</uicontrol> button
+                        three times.</ph></cmd>
+                <info><p>This is common for all audiences. <ph audience="expert">The button beeps
+                            once.</ph><ph audience="novice">The colour turns green.</ph></p><p
+                        audience="expert">The button beeps once.</p><p audience="novice">The colour
+                        turns green.</p>Tässä on tekstiä.</info>
+            </step>
+            <step>
+                <cmd>Press and hold the <uicontrol>Arrow Up</uicontrol> or <uicontrol>Arrow
+                        Down</uicontrol> button to change the hours and the minutes.</cmd>
+                <choicetable frame="all" relcolwidth="1* 1*" id="choicetable_urf_h1g_r4b">
+                    <chhead>
+                        <choptionhd>Option</choptionhd>
+                        <chdeschd>Description</chdeschd>
+                    </chhead>
+                    <chrow>
+                        <choption>Hours</choption>
+                        <chdesc>Time of the day: whole hours.</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Minutes</choption>
+                        <chdesc>Time of the day: minutes of the hour.</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Seconds</choption>
+                        <chdesc>Time of the day: seconds.</chdesc>
+                    </chrow>
+                </choicetable>
+            </step>
+            <stepsection>In the Save group:</stepsection>
+            <step>
+                <cmd>Press the <uicontrol>OK</uicontrol> button to save the time and exit.</cmd>
+                <stepresult>The software saves and exits.</stepresult>
+                <steptroubleshooting>If the software doesn't exit, press the power
+                    key.</steptroubleshooting>
+            </step>
+            <step>
+                <cmd>Enter <cmdname>PSTART</cmdname>.</cmd>
+                <choices id="choices_ikm_x1s_t4b">
+                    <choice>Close</choice>
+                    <choice><uicontrol>New</uicontrol></choice>
+                    <choice><uicontrol>Old</uicontrol></choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Add a test user.</cmd>
+                <substeps id="substeps_ems_ybs_t4b">
+                    <substep>
+                        <cmd>Click <uicontrol>File</uicontrol>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click <uicontrol>New</uicontrol>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click <uicontrol>Save</uicontrol>.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        <result id="result_psm_cyr_t4b">Test user is added.</result>
+        <tasktroubleshooting id="tasktroubleshooting_orh_dyr_t4b">If the user is not added, redo the
+            steps.</tasktroubleshooting>
+        <postreq id="postreq_xcr_cyr_t4b">Next, add another user or save the procedure in the log
+            book.</postreq>
+    </taskbody>
+</task>

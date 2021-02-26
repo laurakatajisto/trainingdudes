@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_fairtrade">
+    <title>Fairtrade certification</title>
+    <titlealts>
+        <navtitle>Fairtrade certification</navtitle>
+        <searchtitle>Overview of the Fairtrade certification</searchtitle>
+    </titlealts>
+    <abstract>Content Etc's Ultraheat family gives lovers of coffee and tea the fairest of
+            experience.<shortdesc>Fairtrade certification shows that fairness runs right through a
+            company's daily operations. If a company meets the social, economic and environmental
+            standards set out by Fairtrade International, they can trade under Fairtrade conditions
+            and display the Fairtrade Mark on their products.</shortdesc></abstract>
+    <prolog>
+        <author>Laura Katajisto</author>
+        <copyright>
+            <copyryear year="2020"/>
+            <copyrholder>Content Etc., LTD</copyrholder>
+        </copyright>
+        <metadata>
+            <category>Get started</category>
+            <keywords>
+                <indexterm>Fairtrade</indexterm>
+                <indexterm>fairness</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p conref="reusable_texts.dita#reusable-texts/p-service-qualified-professionals"/>
+        <note conref="reusable_texts.dita#reusable-texts/note-beware-slippery"/>
+        <p>By certifying the whole supply chain – from farming and production of raw materials, all
+            the way to the packaged product – the Fairtrade International ensures that the integrity
+            of Fairtrade, and your integrity as a Fairtrader is never compromised.</p>
+        <fig id="fig_otz_jps_t4b">
+            <title>Fairtrade logo</title>
+            <image href="graphics/FM_RGB.png" id="image_ddw_rps_t4b">
+                <alt>Fairtrade logo</alt>
+            </image>
+            <ol id="ol_iv4_5ps_t4b">
+                <li>Part 1</li>
+                <li>Part 2</li>
+                <li>Part 3</li>
+            </ol>
+        </fig>
+        <p>The console shows a message:</p>
+        <pre>print AT 4.1
+save AT 1
+exit</pre>
+        <p>Here's a list with intro para:</p>
+        <ul id="ul_xv4_yqs_t4b">
+            <li>List item 1</li>
+            <li>List item 2</li>
+            <li>
+                <p>List item 3</p>
+            </li>
+        </ul>
+        <p>Here's a list with intro para:<ul id="ul_dbj_crs_t4b">
+                <li>List item 1</li>
+                <li>List item 2</li>
+                <li>List item 3</li>
+            </ul></p>
+        <p id="p_i3d_kqs_t4b">The Ultraheat Coffee and Tea Machine recommends using only Fairtrade
+            certified coffee beans and tea.</p>
+        <p audience="novice">Call the hotline to hear more about coffee beans.</p>
+        <p audience="expert">Read about the composition of the different coffee beans before taking
+            the Coffee and Tea Machine into use.</p>
+        <p platform="linux">Here's a random sentence about Linux.</p>
+        <p platform="solaris">Let's add one more for Solaris.</p>
+    </conbody>
+</concept>

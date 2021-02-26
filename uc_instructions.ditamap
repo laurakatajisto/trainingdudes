@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Instructions submap</title>
+    <topicref href="instructions.dita">
+        <topicref href="insert_water_filter.dita"/>
+        <topicref href="change_filters.dita"/>
+    </topicref>
+</map>

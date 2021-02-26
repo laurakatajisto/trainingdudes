@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_change_filters">
+    <title>Change the tea filter</title>
+    <shortdesc><ph otherprops="market(France)">The built-in tea filter must be changed every six
+            months.</ph><ph otherprops="market(USA)">The built-in tea filter must be changed every
+            twelve months.</ph></shortdesc>
+    <taskbody>
+        <context>
+            <p conref="reusable_legal_texts.dita#reusable-legal-texts/safety-local-regulations"/>
+            <p conkeyref="reusable-legalese/safety-local-regulations"/>
+        </context>
+        <prereq id="prereq_k2g_h5x_s4b">You must buy tea filters from the shop before starting the
+            process.They will be in a <term keyref="salesbox"/>.</prereq>
+        <steps id="steps_ubt_35x_s4b">
+            <step>
+                <cmd>Open the cover.</cmd>
+                <info>Use the <abbreviated-form keyref="wrigglytool"/> for this procedure.</info>
+            </step>
+            <step>
+                <cmd>Open the <term keyref="salesbox">package</term> in which the filters
+                    are.</cmd>
+            </step>
+            <step>
+                <cmd>Use the <abbreviated-form keyref="wrigglytool"/> again.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

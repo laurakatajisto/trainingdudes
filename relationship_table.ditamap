@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Relationship tables</title>
+    <reltable>
+        <relrow>
+            <relcell>
+                <topicref href="fairtrade.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="add_beans.dita"/>
+                <topicref href="coffee_bean_composition.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="add_beans.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="coffee_bean_composition.dita"/>
+            </relcell>
+        </relrow>
+    </reltable>
+</map>

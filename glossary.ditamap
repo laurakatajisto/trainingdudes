@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Glossary</title>
+    <topicref href="glossary_overview.dita" chunk="to-content" print="yes">
+        <glossref keys="salesbox" href="glossentry_salesbox.dita" print="yes"/>
+        <glossref keys="wrigglytool" href="glossentry_wrigglytool.dita" print="yes"/>
+        <glossref keys="coffeebean" href="glossentry_coffeebean.dita" print="yes"/>
+        <glossref keys="grinder" href="glossentry_grinder.dita" print="yes"/>
+    </topicref>
+</map>

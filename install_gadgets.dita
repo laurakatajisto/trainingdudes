@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_sh2_hwr_t4b">
+    <title>Install gadgets</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>Gdfadfsa <b>dsfadsfsafads</b> fasfasd.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+        <result id="result_rc1_jxr_t4b"/>
+    </taskbody>
+</task>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Ultracool keymap</title>
+    <keydef keys="product-name">
+        <topicmeta>
+            <keywords>
+                <keyword>Ultracool 7000</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="product-name-A">
+        <topicmeta>
+            <keywords>
+                <keyword>Ultracool 7000</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="product-name-B">
+        <topicmeta>
+            <keywords>
+                <keyword>Ultracool 7600</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="version-number">
+        <topicmeta>
+            <keywords>
+                <keyword>5.12.12</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="fcc-id">
+        <topicmeta>
+            <keywords>
+                <keyword>347441</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="reusable-texts-conkeyref-use" href="reusable_texts.dita"/>
+</map>

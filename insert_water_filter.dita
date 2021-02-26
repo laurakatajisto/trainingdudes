@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_insert_water_filter">
+    <title>Insert the water filter</title>
+    <shortdesc>The water filter purifies the tap water before brewing the coffee or making the
+        tea.</shortdesc>
+    <prolog>
+        <author>Laura Katajisto</author>
+        <copyright>
+            <copyryear year="2020"/>
+            <copyrholder>Content Etc., LTD</copyrholder>
+        </copyright>
+        <metadata>
+            <category>Get started</category>
+            <keywords>
+                <indexterm>water filter</indexterm>
+                <indexterm>insert the water filter</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context id="context_c1m_pmx_s4b" audience="expert">We added some context for experts.<note
+                type="trouble">Do something.</note></context>
+        <prereq id="prereq_a13_qmx_s4b" audience="novice">And prerequisites for novices
+            only.</prereq>
+        <steps>
+            <step>
+                <cmd>Remove the filter from its packaging.</cmd>
+                <info>
+                    <note conkeyref="reusable-texts-conkeyref-use/note-beware-slippery"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Lift the water reservoir cover.</cmd>
+            </step>
+            <step>
+                <cmd>Press the <uicontrol>Open</uicontrol> button.</cmd>
+            </step>
+            <step>
+                <cmd>Pull the filter compartment towards you.</cmd>
+            </step>
+            <step>
+                <cmd>Place the filter to the compartment carefully.</cmd>
+            </step>
+            <step>
+                <cmd>Push the filter compartment away from you.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

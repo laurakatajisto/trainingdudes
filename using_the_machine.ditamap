@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Using the machine</title>
+    <topichead>
+        <topicmeta>
+            <navtitle>Using the machine</navtitle>
+        </topicmeta>
+        <topicref href="add_beans.dita"/>
+        <topicref href="insert_water_filter.dita"/>
+    </topichead>
+</map>

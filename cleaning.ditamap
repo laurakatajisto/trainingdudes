@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Cleaning</title>
+    <topichead>
+        <topicmeta>
+            <navtitle>Cleaning</navtitle>
+        </topicmeta>
+        <topicref href="change_filters.dita"/>
+    </topichead>
+</map>

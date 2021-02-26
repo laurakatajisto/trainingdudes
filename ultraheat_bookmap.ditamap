@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Ultraheat-8800 Coffee and Tea Machine User Guide</mainbooktitle>
+    </booktitle>
+    <frontmatter>
+        <booklists>
+            <toc/>
+        </booklists>
+    </frontmatter>
+    <chapter>
+        <mapref href="get_started.ditamap"/>
+    </chapter>
+    <chapter href="using_the_machine.ditamap" format="ditamap"/>
+    <chapter>
+        <mapref href="cleaning.ditamap"/>
+    </chapter>
+    <chapter>
+        <topicref href="troubleshooting.dita"/>
+    </chapter>
+    <backmatter>
+        <booklists>
+            <indexlist/>
+        </booklists>
+        <topicgroup processing-role="resource-only">
+            <mapref href="ultraheat-keymap.ditamap"/>
+            <mapref href="relationship_table.ditamap"/>
+        </topicgroup>
+    </backmatter>
+</bookmap>

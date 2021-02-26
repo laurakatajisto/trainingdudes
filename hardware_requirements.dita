@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_g31_kdg_r4b">
+    <title>Hardware requirements</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>The hardware requirements are:</p>
+        <ul id="ul_tky_rcx_s4b">
+            <li><b>Processor</b>: Minimum 1 GHz; Recommended 2GHz or more.</li>
+            <li><b>Internet</b>: Ethernet connection (LAN) OR a wireless adapter (Wi-Fi)</li>
+            <li><b>Hard Drive</b>: Minimum 32 GB; Recommended 64 GB or more.</li>
+            <li><b>Memory (RAM</b>): Minimum 1 GB; Recommended 4 GB or above.</li>
+            <li><b>Sound card</b> w/speakers.</li>
+        </ul>
+        <p>Some classes require a camera and microphone.</p>
+    </conbody>
+</concept>

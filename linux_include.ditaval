@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+    <prop att="platform" val="linux" action="include"/>
+    <prop att="platform" val="solaris" action="exclude"/>
+    <prop att="audience" val="expert" action="include"/>
+    <prop att="audience" val="novice" action="exclude"/>
+</val>

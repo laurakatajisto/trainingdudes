@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="reusable-texts">
+    <title>Reusable texts</title>
+    <conbody>
+        <p id="p-service-qualified-professionals">This product can only be serviced by qualified
+            professionals.</p>
+        <note type="important" id="note-beware-slippery">Watch out for slippery roads.</note>
+    </conbody>
+</concept>

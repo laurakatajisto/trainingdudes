@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_n1g_2dg_r4b">
+    <title>Introduction</title>
+    <shortdesc>This section describes the user assistance available and the requirements for getting
+        started with and using the product.</shortdesc>
+    <conbody>
+        <p audience="expert">Extra material is available online.</p>
+        <p audience="novice">There is a phone hotline for beginning users.</p>
+    </conbody>
+</concept>

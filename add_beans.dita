@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_add_beans">
+    <title>Add coffee beans to the grinder</title>
+    <shortdesc><abbreviated-form keyref="coffeebean"/> are simply added to the grinder by lifting
+        the grinder cover and pouring in the beans. The coffee grinder <ph keyref="product-name-A"/>
+        must be at least 10% full to work properly. Add <term keyref="coffeebean">coffee
+            beans</term> to the <ph keyref="product-name"/> grinder every morning.</shortdesc>
+    <prolog>
+        <author>Laura Katajisto</author>
+        <publisher>Adina Solutions</publisher>
+        <copyright>
+            <copyryear year="2020"/>
+            <copyrholder>Content Etc., LTD</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-02-24"/>
+            <revised modified="2021-02-26"/>
+        </critdates>
+        <change-historylist>
+            <change-item name="JIRA123">
+                <change-completed name="DONE"/>
+            </change-item>
+            <change-item name="JIRA6364">
+                <change-completed name="DONE"/>
+            </change-item>
+        </change-historylist>
+        <metadata>
+            <category>Get started</category>
+            <keywords>
+                <indexterm>add coffee beans</indexterm>
+                <indexterm>grinder</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context id="context_omy_4ws_t4b">
+            <p>Here is information about the task.</p>
+            <p conref="reusable_texts.dita#reusable-texts/p-service-qualified-professionals"/>
+            <draft-comment author="Laura" time="26.2.2021">TÄSSÄ ON TESTIKOMMENTTI.</draft-comment>
+        </context>
+        <steps>
+            <step>
+                <cmd>Press <uicontrol>Shut down</uicontrol> to switch off the <ph
+                        keyref="product-name"/> Coffee and Tea Machine.</cmd>
+                <info>
+                    <note conref="reusable_texts.dita#reusable-texts/note-beware-slippery"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Turn the grinder lock switch left until the <ph keyref="product-name"/> display
+                    shows <uicontrol>Open</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Lift the grinder cover.</cmd>
+            </step>
+            <step>
+                <cmd>Pour in the coffee beans.</cmd>
+                <info audience="CEO">When the grinder has enough beans, the display shows
+                        <uicontrol>Full</uicontrol>.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

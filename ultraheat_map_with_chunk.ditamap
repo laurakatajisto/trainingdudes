@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map chunk="to-content">
+    <title>Ultraheat-8800 Coffee and Tea Machine User Guide</title>
+    <topicmeta>
+        <author>Laura Katajisto</author>
+        <permissions view="all"/>
+        <prodinfo>
+            <prodname>Ultraheat-8800 Coffee and Tea Machine</prodname>
+            <brand>Content Etc Ultraheat Fair</brand>
+            <platform>Technology &amp; Food</platform>
+        </prodinfo>
+    </topicmeta>
+    <topicref href="about_the_manual.dita" chunk="to-content"/>
+    <topicref href="introduction.dita" chunk="to-content">
+        <topicref href="fairtrade.dita"/>
+        <topicref href="add_beans.dita" audience="expert"/>
+        <topicref href="set_time.dita"/>
+    </topicref>
+    <topicref href="insert_water_filter.dita" audience="novice" chunk="to-content"/>
+    <topicref href="change_filters.dita" chunk="to-content"/>
+    <topicref href="coffee_bean_composition.dita" audience="expert" chunk="to-content"/>
+    <topicref href="troubleshooting.dita" chunk="to-content"/>
+    <mapref href="glossary.ditamap"/>
+    <topicgroup processing-role="resource-only">
+        <mapref href="ultraheat-keymap.ditamap"/>
+        <mapref href="relationship_table.ditamap"/>
+    </topicgroup>
+</map>

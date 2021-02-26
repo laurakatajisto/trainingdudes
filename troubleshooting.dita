@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="trouble_g1v_2ws_r4b">
+    <title>Device doesn't switch on</title>
+    <shortdesc>All attempts trying to switch on the device have failed.</shortdesc>
+    <troublebody>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>The power might be off.</p>
+            </cause>
+            <remedy>
+                <title>Remedy</title>
+                <responsibleParty>Operator</responsibleParty>
+                <steps>
+                    <step>
+                        <cmd>Open the power cable box.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Check the connections.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

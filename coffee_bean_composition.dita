@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_coffee_bean_composition">
+    <title>Composition of coffee beans</title>
+    <shortdesc>Coffee beans are made up of multiple different compounds.</shortdesc>
+    <prolog>
+        <author>Laura Katajisto</author>
+        <copyright>
+            <copyryear year="2020"/>
+            <copyrholder>Content Etc., LTD</copyrholder>
+        </copyright>
+        <metadata>
+            <category>Get started</category>
+            <keywords>
+                <indexterm>coffee beans</indexterm>
+                <indexterm>coffee beans<indexterm>composition</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_pxn_jq1_5jb">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Compound</entry>
+                        <entry/>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Nonvolatile alkaloids</entry>
+                        <entry>Caffeine. The content of caffeine is between 1.0% and 2.5% by weight
+                            of dry coffee beans.</entry>
+                    </row>
+                    <row>
+                        <entry>Proteins and amino acids</entry>
+                        <entry>11-S. The proteins account for 8% to 12% of dried  coffee
+                            beans.</entry>
+                    </row>
+                    <row>
+                        <entry>Carbohydrates</entry>
+                        <entry>The carbohydrates account for 50% of the dry weight of coffee
+                            beans.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
