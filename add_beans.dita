@@ -36,15 +36,13 @@
     <taskbody>
         <context id="context_omy_4ws_t4b">
             <p>Here is information about the task.</p>
+            <p conref="reusable_texts.dita#reusable-texts/p-service-qualified-professionals"/>
             <draft-comment author="Laura" time="26.2.2021">TÄSSÄ ON TESTIKOMMENTTI.</draft-comment>
         </context>
         <steps>
             <step>
                 <cmd>Press <uicontrol>Shut down</uicontrol> to switch off the <ph
                         keyref="product-name"/> Coffee and Tea Machine.</cmd>
-                <info>
-                    <note conref="reusable_texts.dita#reusable-texts/note-beware-slippery"/>
-                </info>
             </step>
             <step>
                 <cmd>Turn the grinder lock switch left until the <ph keyref="product-name"/> display
