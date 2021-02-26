@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/Laura/Desktop/TrainingdudesGIT/Ultracool_main_map.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><topicmeta xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- map/topicmeta ">
+        <author class="- topic/author ">Laura Katajisto</author>
+        <category class="- topic/category ">User Documentation</category>
+        <prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo>
+    </topicmeta><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Ultracool main/root map</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title ">Ultracool main/root map</title>
+    
+    <topichead xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="+ map/topicref mapgroup-d/topichead "><topicmeta class="- map/topicmeta "><navtitle href="#d159e45" class="- topic/navtitle ">Submap title comes from here</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_btc_3dg_r4b"><resourceid appid="concept_btc_3dg_r4b" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">About the manual</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">What is this document? Learn all about your manual.</shortdesc><author class="- topic/author ">Laura Katajisto</author><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_set_time"><resourceid appid="task_set_time" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Set the time</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The Coffee and Tea Machine has a clock which you can use to schedule that perfect cup         of coffee or tea. <ph audience="novice" class="- topic/ph ">Set the time before brewing your first coffee or             making your first tea.</ph><ph audience="admin" class="- topic/ph ">This is for the admin.</ph></shortdesc><author class="- topic/author ">Laura Katajisto</author><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_add_beans"><resourceid appid="task_add_beans" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Add coffee beans to the grinder</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><abbreviated-form class="+ topic/term abbrev-d/abbreviated-form " href="glossentry_coffeebean.dita" keyref="coffeebean" linking="none"/> are simply added to the grinder by lifting         the grinder cover and pouring in the beans. The coffee grinder <ph class="- topic/ph " keyref="product-name-A">Ultracool 7000</ph>         must be at least 10% full to work properly. Add <term class="- topic/term " href="glossentry_coffeebean.dita" keyref="coffeebean" linking="none">coffee             beans</term> to the <ph class="- topic/ph " keyref="product-name">Ultracool 7000</ph> grinder every morning.</shortdesc><author class="- topic/author ">Laura Katajisto</author><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></topicmeta></topicref></topichead>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_vvb_txy_t4b"><resourceid appid="concept_vvb_txy_t4b" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Instructions heading topic</navtitle><?ditaot gentext?><author class="- topic/author ">Laura Katajisto</author><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></topicmeta><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_insert_water_filter"><resourceid appid="task_insert_water_filter" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Insert the water filter</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The water filter purifies the tap water before brewing the coffee or making the         tea.</shortdesc><author class="- topic/author ">Laura Katajisto</author><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_change_filters"><resourceid appid="task_change_filters" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Change the tea filter</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><ph class="- topic/ph " otherprops="market(France)">The built-in tea filter must be changed every six             months.</ph><ph class="- topic/ph " otherprops="market(USA)">The built-in tea filter must be changed every             twelve months.</ph></shortdesc><author class="- topic/author ">Laura Katajisto</author><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></topicmeta></topicref></topicref>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_10" print="yes" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="glossary_overview"><resourceid appid="glossary_overview" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Glossary</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This glossary explains the key terms including abbreviations and         acronyms.</shortdesc><author class="- topic/author ">Laura Katajisto</author><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></topicmeta></topicref>
+    <?ditaot gentext?>
+<topicref is-chapter="true" is-index="true" class="- map/topicref "><topicmeta class="- map/topicmeta "><navtitle href="#d31e1356" class="- topic/navtitle ">Index</navtitle></topicmeta></topicref></opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d159e45" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Submap title comes from here</ph></title><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="concept_btc_3dg_r4b" oid="concept_btc_3dg_r4b" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">About the manual</ph></title>
+    <shortdesc class="- topic/shortdesc ">What is this document? Learn all about your manual.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Laura Katajisto</author><metadata class="- topic/metadata "><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></metadata></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">This manual provides you information about the <ph class="- topic/ph " keyref="product-name">Ultracool 7000</ph>.</p>
+        <p class="- topic/p ">Read the manual carefully and save it for further use as the expected life of <ph class="- topic/ph " keyref="product-name">Ultracool 7000</ph> is very long.</p>
+        <p class="- topic/p ">Always make new users of <ph class="- topic/ph " keyref="product-name">Ultracool 7000</ph> read the manual.</p>
+        <p class="- topic/p " platform="linux">The product is built on Linux.</p>
+        <p class="- topic/p ">New text here.</p>
+        <p class="- topic/p " platform="solaris">The product does not support server versions.</p>
+    </conbody>
+</concept><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="task_set_time" oid="task_set_time" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Set the time</ph></title>
+    <shortdesc class="- topic/shortdesc ">The Coffee and Tea Machine has a clock which you can use to schedule that perfect cup
+        of coffee or tea. <ph audience="novice" class="- topic/ph ">Set the time before brewing your first coffee or
+            making your first tea.</ph><ph audience="admin" class="- topic/ph ">This is for the admin.</ph></shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Laura Katajisto</author><metadata class="- topic/metadata "><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></metadata></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_2_Connect_42_prereq_z5b_cyr_t4b" nd:nd-id="prereq_z5b_cyr_t4b">Before setting the time, check the exact time from the
+                <wintitle class="+ topic/keyword ui-d/wintitle ">Atomic Clock</wintitle>. <ph audience="novice" class="- topic/ph ">You can also call technical
+                support.</ph> You're great, thanks!<p class="- topic/p ">This product can only be serviced by qualified
+            professionals.</p></prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p " conkeyref="reusable-texts/p-service-qualified-professionals"/>
+        </context>
+        <context class="- topic/section task/context " id="unique_2_Connect_42_context_xq2_cyr_t4b" nd:nd-id="context_xq2_cyr_t4b">Setting the time is the first thing you do when you start
+            with your Coffee and Tea Machine.</context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><ph audience="expert" class="- topic/ph ">Press the <uicontrol class="+ topic/ph ui-d/uicontrol ">Time</uicontrol> button
+                        once.</ph><ph audience="novice" class="- topic/ph ">Press the <uicontrol class="+ topic/ph ui-d/uicontrol ">Time</uicontrol> button
+                        three times.</ph></cmd>
+                <info class="- topic/itemgroup task/info "><p class="- topic/p ">This is common for all audiences. <ph audience="expert" class="- topic/ph ">The button beeps
+                            once.</ph><ph audience="novice" class="- topic/ph ">The colour turns green.</ph></p><p audience="expert" class="- topic/p ">The button beeps once.</p><p audience="novice" class="- topic/p ">The colour
+                        turns green.</p>Tässä on tekstiä.</info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press and hold the <uicontrol class="+ topic/ph ui-d/uicontrol ">Arrow Up</uicontrol> or <uicontrol class="+ topic/ph ui-d/uicontrol ">Arrow
+                        Down</uicontrol> button to change the hours and the minutes.</cmd>
+                <choicetable class="- topic/simpletable task/choicetable " frame="all" id="unique_2_Connect_42_choicetable_urf_h1g_r4b" nd:nd-id="choicetable_urf_h1g_r4b" keycol="1" relcolwidth="1* 1*">
+                    <chhead class="- topic/sthead task/chhead ">
+                        <choptionhd class="- topic/stentry task/choptionhd " dita-ot:x="1" dita-ot:y="1">Option</choptionhd>
+                        <chdeschd class="- topic/stentry task/chdeschd " dita-ot:x="2" dita-ot:y="1">Description</chdeschd>
+                    </chhead>
+                    <chrow class="- topic/strow task/chrow ">
+                        <choption class="- topic/stentry task/choption " dita-ot:x="1" dita-ot:y="2">Hours</choption>
+                        <chdesc class="- topic/stentry task/chdesc " dita-ot:x="2" dita-ot:y="2">Time of the day: whole hours.</chdesc>
+                    </chrow>
+                    <chrow class="- topic/strow task/chrow ">
+                        <choption class="- topic/stentry task/choption " dita-ot:x="1" dita-ot:y="3">Minutes</choption>
+                        <chdesc class="- topic/stentry task/chdesc " dita-ot:x="2" dita-ot:y="3">Time of the day: minutes of the hour.</chdesc>
+                    </chrow>
+                    <chrow class="- topic/strow task/chrow ">
+                        <choption class="- topic/stentry task/choption " dita-ot:x="1" dita-ot:y="4">Seconds</choption>
+                        <chdesc class="- topic/stentry task/chdesc " dita-ot:x="2" dita-ot:y="4">Time of the day: seconds.</chdesc>
+                    </chrow>
+                </choicetable>
+            </step>
+            <stepsection class="- topic/li task/stepsection ">In the Save group:</stepsection>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press the <uicontrol class="+ topic/ph ui-d/uicontrol ">OK</uicontrol> button to save the time and exit.</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult ">The software saves and exits.</stepresult>
+                <steptroubleshooting class="- topic/itemgroup task/steptroubleshooting ">If the software doesn't exit, press the power
+                    key.</steptroubleshooting>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter <cmdname class="+ topic/keyword sw-d/cmdname ">PSTART</cmdname>.</cmd>
+                <choices class="- topic/ul task/choices " id="unique_2_Connect_42_choices_ikm_x1s_t4b" nd:nd-id="choices_ikm_x1s_t4b">
+                    <choice class="- topic/li task/choice ">Close</choice>
+                    <choice class="- topic/li task/choice "><uicontrol class="+ topic/ph ui-d/uicontrol ">New</uicontrol></choice>
+                    <choice class="- topic/li task/choice "><uicontrol class="+ topic/ph ui-d/uicontrol ">Old</uicontrol></choice>
+                </choices>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Add a test user.</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_2_Connect_42_substeps_ems_ybs_t4b" nd:nd-id="substeps_ems_ybs_t4b">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Click <uicontrol class="+ topic/ph ui-d/uicontrol ">File</uicontrol>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Click <uicontrol class="+ topic/ph ui-d/uicontrol ">New</uicontrol>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Click <uicontrol class="+ topic/ph ui-d/uicontrol ">Save</uicontrol>.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_2_Connect_42_result_psm_cyr_t4b" nd:nd-id="result_psm_cyr_t4b">Test user is added.</result>
+        <tasktroubleshooting class="- topic/section task/tasktroubleshooting " id="unique_2_Connect_42_tasktroubleshooting_orh_dyr_t4b" nd:nd-id="tasktroubleshooting_orh_dyr_t4b">If the user is not added, redo the
+            steps.</tasktroubleshooting>
+        <postreq class="- topic/section task/postreq " id="unique_2_Connect_42_postreq_xcr_cyr_t4b" nd:nd-id="postreq_xcr_cyr_t4b">Next, add another user or save the procedure in the log
+            book.</postreq>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="task_add_beans" oid="task_add_beans" specializations="@props/deliveryTarget">
+    <opentopic-index:refID indexid="indexid40951660" value="add coffee beans:" class="- index/refid " id="d31e837"/><opentopic-index:refID indexid="indexid327770521" value="grinder:" class="- index/refid " id="d31e841"/><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Add coffee beans to the grinder</ph></title>
+    <shortdesc class="- topic/shortdesc "><abbreviated-form class="+ topic/term abbrev-d/abbreviated-form " href="#unique_4" keyref="coffeebean" linking="none" type="glossentry"><?ditaot gentext?>coffee bean</abbreviated-form> are simply added to the grinder by lifting
+        the grinder cover and pouring in the beans. The coffee grinder <ph class="- topic/ph " keyref="product-name-A">Ultracool 7000</ph>
+        must be at least 10% full to work properly. Add <term class="- topic/term " href="#unique_4" keyref="coffeebean" linking="none" type="glossentry"><?ditaot usertext?>coffee
+            beans</term> to the <ph class="- topic/ph " keyref="product-name">Ultracool 7000</ph> grinder every morning.</shortdesc>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Laura Katajisto</author><author class="- topic/author ">Laura Katajisto</author>
+        <publisher class="- topic/publisher ">Adina Solutions</publisher>
+        <copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2020"/>
+            <copyrholder class="- topic/copyrholder ">Content Etc., LTD</copyrholder>
+        </copyright>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-02-24"/>
+            <revised class="- topic/revised " modified="2021-02-26"/>
+        </critdates>
+        <change-historylist class="+ topic/metadata relmgmt-d/change-historylist ">
+            <change-item class="+ topic/data relmgmt-d/change-item " name="JIRA123">
+                <change-completed class="+ topic/data relmgmt-d/change-completed " name="DONE"/>
+            </change-item>
+            <change-item class="+ topic/data relmgmt-d/change-item " name="JIRA6364">
+                <change-completed class="+ topic/data relmgmt-d/change-completed " name="DONE"/>
+            </change-item>
+        <category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></change-historylist>
+        <metadata class="- topic/metadata ">
+            <category class="- topic/category ">Get started</category>
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="add coffee beans" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">add coffee beans</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid40951660" value="add coffee beans:" class="- index/refid " id="d31e837"/></opentopic-index:index.entry>
+                <opentopic-index:index.entry value="grinder" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">grinder</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid327770521" value="grinder:" class="- index/refid " id="d31e841"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context " id="unique_3_Connect_42_context_omy_4ws_t4b" nd:nd-id="context_omy_4ws_t4b">
+            <p class="- topic/p ">Here is information about the task.</p>
+            <p class="- topic/p ">This product can only be serviced by qualified
+            professionals.</p>
+            
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press <uicontrol class="+ topic/ph ui-d/uicontrol ">Shut down</uicontrol> to switch off the <ph class="- topic/ph " keyref="product-name">Ultracool 7000</ph> Coffee and Tea Machine.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn the grinder lock switch left until the <ph class="- topic/ph " keyref="product-name">Ultracool 7000</ph> display
+                    shows <uicontrol class="+ topic/ph ui-d/uicontrol ">Open</uicontrol>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Lift the grinder cover.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Pour in the coffee beans.</cmd>
+                <info audience="CEO" class="- topic/itemgroup task/info ">When the grinder has enough beans, the display shows
+                        <uicontrol class="+ topic/ph ui-d/uicontrol ">Full</uicontrol>.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="concept_vvb_txy_t4b" oid="concept_vvb_txy_t4b" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Instructions heading topic</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">Laura Katajisto</author><metadata class="- topic/metadata "><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></metadata></prolog>
+<task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="task_insert_water_filter" oid="task_insert_water_filter" specializations="@props/deliveryTarget">
+    <opentopic-index:refID indexid="indexid1904344505" value="water filter:" class="- index/refid " id="d31e972"/><opentopic-index:refID indexid="indexid-555220317" value="insert the water filter:" class="- index/refid " id="d31e976"/><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Insert the water filter</ph></title>
+    <shortdesc class="- topic/shortdesc ">The water filter purifies the tap water before brewing the coffee or making the
+        tea.</shortdesc>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Laura Katajisto</author><author class="- topic/author ">Laura Katajisto</author>
+        <copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2020"/>
+            <copyrholder class="- topic/copyrholder ">Content Etc., LTD</copyrholder>
+        </copyright>
+        <metadata class="- topic/metadata ">
+            <category class="- topic/category ">User Documentation</category><category class="- topic/category ">Get started</category>
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="water filter" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">water filter</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1904344505" value="water filter:" class="- index/refid " id="d31e972"/></opentopic-index:index.entry>
+                <opentopic-index:index.entry value="insert the water filter" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">insert the water filter</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-555220317" value="insert the water filter:" class="- index/refid " id="d31e976"/></opentopic-index:index.entry>
+            </keywords>
+        <prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context audience="expert" class="- topic/section task/context " id="unique_6_Connect_42_context_c1m_pmx_s4b" nd:nd-id="context_c1m_pmx_s4b">We added some context for experts.<note class="- topic/note " type="trouble">Do something.</note></context>
+        <prereq audience="novice" class="- topic/section task/prereq " id="unique_6_Connect_42_prereq_a13_qmx_s4b" nd:nd-id="prereq_a13_qmx_s4b">And prerequisites for novices
+            only.</prereq>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Remove the filter from its packaging.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <note class="- topic/note " type="important">Watch out for slippery roads.</note>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Lift the water reservoir cover.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press the <uicontrol class="+ topic/ph ui-d/uicontrol ">Open</uicontrol> button.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Pull the filter compartment towards you.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Place the filter to the compartment carefully.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Push the filter compartment away from you.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="task_change_filters" oid="task_change_filters" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Change the tea filter</ph></title>
+    <shortdesc class="- topic/shortdesc "><ph class="- topic/ph " otherprops="market(France)">The built-in tea filter must be changed every six
+            months.</ph><ph class="- topic/ph " otherprops="market(USA)">The built-in tea filter must be changed every
+            twelve months.</ph></shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Laura Katajisto</author><metadata class="- topic/metadata "><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></metadata></prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Local safety regulations must be observed. Only technically
+            qualified and appropriately trained personnel are authorised to open and maintain the
+            units.</p>
+            <p class="- topic/p " conkeyref="reusable-legalese/safety-local-regulations"/>
+        </context>
+        <prereq class="- topic/section task/prereq " id="unique_7_Connect_42_prereq_k2g_h5x_s4b" nd:nd-id="prereq_k2g_h5x_s4b">You must buy tea filters from the shop before starting the
+            process.They will be in a <term class="- topic/term " href="#unique_8" keyref="salesbox" linking="none" type="glossentry"><?ditaot gentext?>sales box</term>.</prereq>
+        <steps class="- topic/ol task/steps " id="unique_7_Connect_42_steps_ubt_35x_s4b" nd:nd-id="steps_ubt_35x_s4b">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open the cover.</cmd>
+                <info class="- topic/itemgroup task/info ">Use the <abbreviated-form class="+ topic/term abbrev-d/abbreviated-form " href="#unique_9" keyref="wrigglytool" linking="none" type="glossentry"><?ditaot gentext?>wriggly tool</abbreviated-form> for this procedure.</info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open the <term class="- topic/term " href="#unique_8" keyref="salesbox" linking="none" type="glossentry"><?ditaot usertext?>package</term> in which the filters
+                    are.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Use the <abbreviated-form class="+ topic/term abbrev-d/abbreviated-form " href="#unique_9" keyref="wrigglytool" linking="none" type="glossentry"><?ditaot gentext?>wriggly tool</abbreviated-form> again.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="glossary_overview" oid="glossary_overview" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Glossary</ph></title>
+    <shortdesc class="- topic/shortdesc ">This glossary explains the key terms including abbreviations and
+        acronyms.</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Laura Katajisto</author><metadata class="- topic/metadata "><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></metadata></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "/>
+    </body>
+<glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_8" topicrefclass="+ map/topicref glossref-d/glossref " topicreftoc="no" nd:nd-id="glossentry_salesbox" oid="glossentry_salesbox" specializations="@props/deliveryTarget">
+    <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">sales box</ph></glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Sales box is the package in which you receive your <ph class="- topic/ph " keyref="product-name">Ultracool 7000</ph>. It is
+        hand-made with recyclable wood. A unique number has been carved to its side.</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Laura Katajisto</author><metadata class="- topic/metadata "><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></metadata></prolog>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_9" topicrefclass="+ map/topicref glossref-d/glossref " topicreftoc="no" nd:nd-id="glossentry_wrigglytool" oid="glossentry_wrigglytool" specializations="@props/deliveryTarget">
+    <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">wriggly tool</ph></glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Wriggly tool is a plastic spoon that helps you put on the <ph class="- topic/ph " keyref="product-name">Ultracool 7000</ph>
+        foot warmers.</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Laura Katajisto</author><metadata class="- topic/metadata "><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></metadata></prolog>
+    <glossBody class="- topic/body concept/conbody glossentry/glossBody ">
+        <glossSurfaceForm class="- topic/p concept/p glossentry/glossSurfaceForm ">wriggly tool</glossSurfaceForm>
+        <glossAlt class="- topic/section concept/section glossentry/glossAlt ">
+            <glossAcronym class="- topic/title concept/title glossentry/glossAcronym ">WRGT</glossAcronym>
+        </glossAlt>
+    </glossBody>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_4" topicrefclass="+ map/topicref glossref-d/glossref " topicreftoc="no" nd:nd-id="glossentry_coffeebean" oid="glossentry_coffeebean" specializations="@props/deliveryTarget">
+    <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">coffee bean</ph></glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">
+        <p class="- topic/p ">A coffee bean is a seed of the coffee plant and the source for coffee.</p>
+    </glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Laura Katajisto</author><metadata class="- topic/metadata "><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></metadata></prolog>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_11" topicrefclass="+ map/topicref glossref-d/glossref " topicreftoc="no" nd:nd-id="glossentry_grinder" oid="glossentry_grinder" specializations="@props/deliveryTarget">
+    <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">grinder</ph></glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">Grinder grinds the beans.</glossdef><prolog class="- topic/prolog "><author class="- topic/author ">Laura Katajisto</author><metadata class="- topic/metadata "><category class="- topic/category ">User Documentation</category><prodinfo class="- topic/prodinfo ">
+            <prodname class="- topic/prodname ">Ultracool</prodname>
+            <brand class="- topic/brand ">Technology Savvy</brand>
+            <component class="- topic/component ">Heaters</component>
+            <featnum class="- topic/featnum ">VR-12321</featnum>
+            <platform class="- topic/platform ">Windows</platform>
+            <prognum class="- topic/prognum ">RT-5234</prognum>
+        </prodinfo></metadata></prolog>
+</glossentry></topic><opentopic-index:index.groups class="- index/groups " id="d31e1356"><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">A</opentopic-index:label><opentopic-index:index.entry value="add coffee beans" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">add coffee beans</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid40951660" value="add coffee beans:" class="- index/refid "><oxy:index-link href="#d31e837" class="- index/link ">
+                  [d31e837]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">G</opentopic-index:label><opentopic-index:index.entry value="grinder" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">grinder</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid327770521" value="grinder:" class="- index/refid "><oxy:index-link href="#d31e841" class="- index/link ">
+                  [d31e841]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">I</opentopic-index:label><opentopic-index:index.entry value="insert the water filter" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">insert the water filter</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-555220317" value="insert the water filter:" class="- index/refid "><oxy:index-link href="#d31e976" class="- index/link ">
+                  [d31e976]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">W</opentopic-index:label><opentopic-index:index.entry value="water filter" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">water filter</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1904344505" value="water filter:" class="- index/refid "><oxy:index-link href="#d31e972" class="- index/link ">
+                  [d31e972]
+                </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group></opentopic-index:index.groups></map>
