@@ -52,11 +52,6 @@
             </step>
             <step>
                 <cmd>Lift the grinder cover.</cmd>
-                <info>
-                    <fig id="fig_gn2_xzz_t4b">
-                        <image href="graphics/FM_RGB.png" id="image_aqy_xzz_t4b"/>
-                    </fig>
-                </info>
             </step>
             <step>
                 <cmd>Pour in the coffee beans.</cmd>
