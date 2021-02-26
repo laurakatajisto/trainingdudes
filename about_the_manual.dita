@@ -9,6 +9,7 @@
                 keyref="product-name"/> is very long.</p>
         <p>Always make new users of <ph keyref="product-name"/> read the manual.</p>
         <p platform="linux">The product is built on Linux.</p>
+        <p>New text here.</p>
         <p platform="solaris">The product does not support server versions.</p>
     </conbody>
 </concept>
