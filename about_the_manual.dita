@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_btc_3dg_r4b">
+    <title>About the manual</title>
+    <shortdesc>What is this document? Learn all about your manual.</shortdesc>
+    <conbody>
+        <p>This manual provides you information about the <ph keyref="product-name"/>.</p>
+        <p>Read the manual carefully and save it for further use as the expected life of <ph
+                keyref="product-name"/> is very long.</p>
+        <p>Always make new users of <ph keyref="product-name"/> read the manual.</p>
+        <p platform="linux">The product is built on Linux.</p>
+        <p platform="solaris">The product does not support server versions.</p>
+    </conbody>
+</concept>
